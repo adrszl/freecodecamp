@@ -10,3 +10,4 @@ Code associated with FreeCodeCamp Courses
   - Labs:
     - Build a Quiz Game
     - Build a Factorial Calculator
+    - Build a Pyramid Generator
