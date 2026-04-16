@@ -30,8 +30,6 @@ const studentMsg = (testScores, score) => {
     const studentsGrade = getGrade(score);
     const hasStudentPassed = hasPassingGrade(score);
 
-    if (hasStudentPassed)
-        return `Class average: ${classAvgScore}. Your grade: ${studentsGrade}. You passed the course.`;
-    else
-        return `Class average: ${classAvgScore}. Your grade: ${studentsGrade}. You failed the course.`;
+    if (hasStudentPassed) return `Class average: ${classAvgScore}. Your grade: ${studentsGrade}. You passed the course.`;
+    else return `Class average: ${classAvgScore}. Your grade: ${studentsGrade}. You failed the course.`;
 }
