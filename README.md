@@ -12,3 +12,4 @@ Code associated with FreeCodeCamp Courses
     - Build a Factorial Calculator
     - Build a Pyramid Generator
     - Build a Gradebook App
+    - Build an Inventory Management Program
