@@ -15,3 +15,4 @@ Code associated with FreeCodeCamp Courses
     - Build an Inventory Management Program
     - Build a Password Generator App
     - Build a Book Organizer
+    - Implement a Sorted Index Finder
