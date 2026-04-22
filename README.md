@@ -16,3 +16,4 @@ Code associated with FreeCodeCamp Courses
     - Build a Password Generator App
     - Build a Book Organizer
     - Implement a Sorted Index Finder
+    - Build a Symmetric Difference Function
