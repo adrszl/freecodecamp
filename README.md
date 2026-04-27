@@ -17,3 +17,4 @@ Code associated with FreeCodeCamp Courses
     - Build a Book Organizer
     - Implement a Sorted Index Finder
     - Build a Symmetric Difference Function
+    - Build a Favorite Icon Toggler
