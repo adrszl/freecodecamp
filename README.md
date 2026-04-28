@@ -18,3 +18,4 @@ Code associated with FreeCodeCamp Courses
     - Implement a Sorted Index Finder
     - Build a Symmetric Difference Function
     - Build a Favorite Icon Toggler
+    - Build a Real Time Counter
