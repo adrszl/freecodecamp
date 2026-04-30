@@ -19,3 +19,4 @@ Code associated with FreeCodeCamp Courses
     - Build a Symmetric Difference Function
     - Build a Favorite Icon Toggler
     - Build a Real Time Counter
+    - Build a Lightbox Viewer
